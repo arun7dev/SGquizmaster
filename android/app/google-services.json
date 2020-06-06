@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "520253922827",
+    "firebase_url": "https://sgquizmaster-9b985.firebaseio.com",
+    "project_id": "sgquizmaster-9b985",
+    "storage_bucket": "sgquizmaster-9b985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:520253922827:android:7caf3c72a3f7fcc0cbf10e",
+        "android_client_info": {
+          "package_name": "co.arunsa.sg_quiz_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "520253922827-7b12mqu677b4cjodiop0j98l0k36bsho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASLIn7cU0x0a0EijxF0KPBTohKdfiYPFA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "520253922827-7b12mqu677b4cjodiop0j98l0k36bsho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
